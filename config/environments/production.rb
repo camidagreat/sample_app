@@ -58,7 +58,7 @@ Rails.application.configure do
 
   config.action_mailer.raise_delivery_errors = true
     config.action_mailer.delivery_method = :smtp
-    host = 'sample_app.herokuapp.com'
+    host = 'fierce-ocean-66545.herokuapp.com'
     config.action_mailer.default_url_options = { host: host }
     ActionMailer::Base.smtp_settings = {
       :address        => 'smtp.sendgrid.net',
