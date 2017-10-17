@@ -1,9 +1,8 @@
 # README
 
-This is my duplication of Michael Hartl's Rails Tutorial Sample App. 
+## This is my duplication of Michael Hartl's Rails Tutorial Sample App. 
 
-
-Skill used include:
+## Skill used include:
 
 • Ruby / Rails 5.2
 
