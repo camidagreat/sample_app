@@ -4,9 +4,9 @@
 
 ### Skill used include:
 
-*Ruby / Rails 5.2
+* Ruby / Rails 5.2
 
-*Intermediate command line / git
+* Intermediate command line / git
 
 *HTML 5 and CSS
 
