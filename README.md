@@ -4,36 +4,36 @@
 
 ### Skill used include:
 
-⋅⋅*Ruby / Rails 5.2
+*Ruby / Rails 5.2
 
-⋅⋅*Intermediate command line / git
+*Intermediate command line / git
 
-⋅⋅*HTML 5 and CSS
+*HTML 5 and CSS
 
-⋅⋅*Bootstrap
+*Bootstrap
 
-⋅⋅*Basic routing / MVC manipulation / resource management
+*Basic routing / MVC manipulation / resource management
 
-⋅⋅*RESTful application architechture
+*RESTful application architechture
 
-⋅⋅*User modeling (database management, user authentication, password reset, field valication, etc)
+*User modeling (database management, user authentication, password reset, field valication, etc)
 
-⋅⋅*Pagination
+*Pagination
 
-⋅⋅*Basic website security management (SSL, strong params, admin protection) 
+*Basic website security management (SSL, strong params, admin protection) 
 
-⋅⋅*Debugging and building test suites (TDD)
+*Debugging and building test suites (TDD)
 
-⋅⋅*Basic session control (cookies, "remember me" functionality, session reset with closed browser, etc)
+*Basic session control (cookies, "remember me" functionality, session reset with closed browser, etc)
 
-⋅⋅*Application-native emails to users and SendGrid
+*Application-native emails to users and SendGrid
 
-⋅⋅*Heroku rollout and production enablement
+*Heroku rollout and production enablement
 
-⋅⋅*Image manipulation through CarrierWave
+*Image manipulation through CarrierWave
 
-⋅⋅*Twitter-like post feed and user following
+*Twitter-like post feed and user following
 
-⋅⋅*Other kills include basic jQuery, error message implementation, Gravatar, database association and foreign key linking.
+*Other kills include basic jQuery, error message implementation, Gravatar, database association and foreign key linking.
 
 
